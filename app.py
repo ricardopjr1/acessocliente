@@ -57,7 +57,7 @@ except Exception as e:
 # --- CORS ---
 # ... (configuração CORS igual a antes) ...
 netlify_frontend_url_old = "https://effervescent-marshmallow-307a04.netlify.app"
-netlify_frontend_url_new = "https://magenta-mandazi-f7d096.netlify.app"
+netlify_frontend_url_new = "https://tiny-panda-0bc758.netlify.app"
 local_dev_url_1 = "http://localhost:8000"
 local_dev_url_2 = "http://127.0.0.1:5500"
 allowed_origins = [ netlify_frontend_url_old, netlify_frontend_url_new, local_dev_url_1, local_dev_url_2 ]
